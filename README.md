@@ -76,5 +76,6 @@ The LAN was successfully designed and configured in Cisco Packet Tracer. Static 
 ## Files
 
 - `ASSIGNMENT.pkt` – Cisco Packet Tracer project
-- `Unit_1_LAN_Mini_Project_Report.docx` – Project report
+- `Unit_1_LAN_Mini_Project_Report.pdf` – Complete Project Report (PDF)
+- `Unit_1_LAN_Mini_Project_Report.docx` – Editable Project Report (Word)
 - `screenshots/` – Topology and ping verification screenshots
